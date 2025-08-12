@@ -1,12 +1,7 @@
 ## Евгений Шенделев
-###### Java developer, 33 года
+######33 года
   
 #### Skills
-
-- Java Core
-- Spring Boot
-- Hibernate
-- PostgreSQL
 - Git
   
 ####  Опыт работы: 
